@@ -1,5 +1,5 @@
 """
-filter () 过滤选择项
+filter () 过滤选择项,返回值为布尔型
 """
 scores = [75,89,42,70,53,66]
 students = ['jerry','tom','mike','dell']
